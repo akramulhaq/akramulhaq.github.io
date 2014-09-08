@@ -1,2 +1,2 @@
-Read me file
+This is a github page repo
 ====================
